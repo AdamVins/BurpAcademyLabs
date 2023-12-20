@@ -1,2 +1,2 @@
 # BurpAcademyLabs
-Exploit for Burp Academy labs mostly written in Python.
+Exploits for Burp Academy labs mostly written in Python.
